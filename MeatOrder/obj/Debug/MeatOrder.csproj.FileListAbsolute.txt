@@ -1,0 +1,12 @@
+J:\study0119\MeatOrder\bin\Debug\MeatOrder.exe.config
+J:\study0119\MeatOrder\bin\Debug\MeatOrder.exe
+J:\study0119\MeatOrder\bin\Debug\MeatOrder.pdb
+J:\study0119\MeatOrder\obj\Debug\MeatOrder.csproj.AssemblyReference.cache
+J:\study0119\MeatOrder\obj\Debug\MeatOrder.MeatOrderMain.resources
+J:\study0119\MeatOrder\obj\Debug\MeatOrder.OrderForm.resources
+J:\study0119\MeatOrder\obj\Debug\MeatOrder.Properties.Resources.resources
+J:\study0119\MeatOrder\obj\Debug\MeatOrder.ScalForm.resources
+J:\study0119\MeatOrder\obj\Debug\MeatOrder.csproj.GenerateResource.cache
+J:\study0119\MeatOrder\obj\Debug\MeatOrder.csproj.CoreCompileInputs.cache
+J:\study0119\MeatOrder\obj\Debug\MeatOrder.exe
+J:\study0119\MeatOrder\obj\Debug\MeatOrder.pdb
